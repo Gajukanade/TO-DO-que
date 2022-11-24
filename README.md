@@ -3,9 +3,13 @@ Que:1  Create To-Do List Using HTML, CSS and JS with option to add new entry to 
 
 
 Technology used:
+
 1.HTML
+
 2.CSS,Bootstrap
+
 3.javascript
+
 4.React
 
 
